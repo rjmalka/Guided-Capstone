@@ -1,2 +1,2 @@
 # Guided-Capstone
-for Springboard
+Ticket pricing modeling project for Big Mountain Ski Resort
